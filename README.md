@@ -1,107 +1,81 @@
 # Austin Lee (Kushonim)
 
-## About Me
-I am an aspiring IT and data-focused professional with a strong interest in data management, data security, and full-stack web development. I enjoy working with structured information, building systems that make data easier to manage, and learning how to design secure and reliable applications.
+**Full-Stack Web Developer // IT Support Specialist** — Minneapolis, MN
 
-My academic and project experience includes backend development, databases, and modern web technologies. I am particularly interested in roles related to data engineering, information security, and software development.
+[Portfolio](https://kushonim.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/austin-lee-kushonim/) · austindlee30@gmail.com
+
+---
+
+## About Me
+
+I'm a recent IT Infrastructure graduate (B.A.Sc., University of Minnesota, GPA 3.6) with a Full Stack Web Development Certificate, interested in roles spanning IT support, full-stack development, and data-focused work. I enjoy building complete, working systems end-to-end — from database design through a polished, usable front end — and I like taking on projects with a real personal hook (fitness, travel, organization) instead of generic tutorial clones.
+
+Currently seeking entry-level opportunities in **IT Infrastructure / Support / Development / SysAdmin**.
 
 ---
 
 ## Technical Skills
 
-**Languages & Frameworks**
-- JavaScript (Node.js, Express)
-- Python
-- C (fundamentals)
-- SQL (PostgreSQL, MySQL)
-- React
+**Languages & Frameworks:** JavaScript (ES6+), Python, C, SQL, React
 
-**Web & Application Development**
-- REST APIs
-- MERN Stack (MongoDB, Express, React, Node)
-- Progressive Web Apps (PWA)
-- Frontend UI design
+**Web & Application Development:** REST APIs, MERN Stack, JWT & bcrypt auth, Progressive Web Apps (PWA)
 
-**Data & Systems**
-- Database design and querying
-- Data ingestion and processing
-- Basic cloud concepts (AWS, cloud storage, virtualization)
+**Databases:** PostgreSQL, MongoDB, MySQL, Sequelize
 
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Linux / Command Line
-- Docker (introductory)
-- Stripe API (payments integration)
-- YouTube API / external APIs
+**Systems & Infra:** Linux, VirtualBox, VMs & Hypervisors, TCP/IP, DNS, DHCP
+
+**Tools & Deployment:** Git & GitHub, Vercel, Render, Docker (intro), AWS (fundamentals), VS Code, CLI
 
 ---
 
 ## Featured Projects
 
-### 🐾 Virtual Zoo Tour App
-A collaborative MERN-stack web application that provides live-streamed animal exhibits with detailed animal profiles and integrated donation support.
+### [Portfolio Site](https://github.com/Kushonim/portfolio)
+A custom-built, game-inspired portfolio showcasing my projects and skills with a bit of personality.
+**Tech:** HTML, CSS, JavaScript
 
-**Key Features:**
-- Animal profile pages with live video streams
-- Interactive map of zoo exhibits
-- Stripe donation system
-- API-based animal data retrieval
+### [Dirty Macro Tracker](https://github.com/Kushonim/dirtyMacroTracker)
+A full-stack macro tracker that helps you hit fitness goals (bulk, cut, maintain, keto) by building meal "loadouts" from real fast-food menu items — because eating out doesn't have to derail your goals.
+**Key Features:** Personalized macro targets (Mifflin-St Jeor equation), guest mode, JWT-authenticated accounts, a custom "growing plant" progress meter
+**Tech:** React (Vite), Tailwind CSS, Node.js, Express, PostgreSQL (Neon), JWT/bcrypt
 
-**Tech Used:**  
-React, Node.js, Express, MongoDB, Stripe API, YouTube API
+### Virtual Zoo Tour App
+A collaborative MERN-stack app with live-streamed animal exhibits, an interactive exhibit map, and Stripe-powered donation support.
+**Tech:** React, Node.js, Express, MongoDB, Stripe API, YouTube API
 
----
+### [Office Break Room](https://github.com/emulcahey/Office_Break_Room)
+A full-stack office game manager with user auth, a real-time leaderboard, and a configurable break timer, deployed live on Render.
+**Tech:** Node.js, Express, Handlebars.js, MySQL, Sequelize, MVC
 
-### 📝 Progressive Web Text Editor
-A PWA-compliant text editor with offline functionality and persistent storage.
+### [Journey Forecast](https://github.com/Kushonim/journey-forecast)
+A weather dashboard for travelers — search any city for current conditions and a 5-day forecast, built solo to practice working with an authenticated third-party API.
+**Tech:** JavaScript, HTML5, CSS3
 
-**Key Features:**
-- Installable PWA
-- IndexedDB data persistence
-- Offline usage support
-
-**Tech Used:**  
-JavaScript, Webpack, IndexedDB, Service Workers
-
----
-
-### 🗄️ Employee Management CLI App
-A command-line application for managing employee records using a PostgreSQL backend.
-
-**Key Features:**
-- Menu-driven user interaction
-- CRUD database operations
-- Structured relational data design
-
-**Tech Used:**  
-Node.js, Inquirer, PostgreSQL
+*More repos, including [personal-blog-board](https://github.com/Kushonim/personal-blog-board) and [nahtazu-wildlife-sanctuary](https://github.com/alarrabee/nahtazu-wildlife-sanctuary), are pinned on my profile below.*
 
 ---
 
 ## What I'm Learning
-- Data engineering concepts
-- Cloud infrastructure
+
+- Cloud infrastructure & deployment
 - Secure system design
-- API development
+- Data engineering fundamentals
 - Database optimization
 
 ---
 
 ## Career Interests
-- Data Engineering
-- Information Security
-- Backend Development
+
+- IT Support & Infrastructure
+- Full-Stack Development
 - Systems Administration
+- Data Analysis
 
 ---
 
 ## Contact
-- GitHub: https://github.com/Kushonim
-- LinkedIn: https://www.linkedin.com/in/austin-lee-kushonim/
+
+- GitHub: [github.com/Kushonim](https://github.com/Kushonim)
+- LinkedIn: [linkedin.com/in/austin-lee-kushonim](https://www.linkedin.com/in/austin-lee-kushonim/)
+- Portfolio: [kushonim.github.io/portfolio](https://kushonim.github.io/portfolio/)
 - Email: austindlee30@gmail.com
-
----
-
-## Philosophy
-I enjoy building systems that organize, protect, and move data efficiently. I value clarity in code, strong structure in design, and continuous improvement through learning and iteration.
